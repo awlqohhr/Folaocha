@@ -559,17 +559,28 @@ div#preloader {
   }
 }
 
+#img-000 {
+  background-image: url('/assets/img/produk/TasSlempangCurduraWaterproff.jpeg');
+}
+#img-001 {
+  background-image: url('/assets/img/produk/TasSlempangCurduroy.jpeg');
+}
+#img-002 {
+  background-image: url('/assets/img/produk/TasJeansAplikasiKainPerca.jpeg');
+}
 
 #hero .carousel,
 #hero .carousel-inner,
 #hero .carousel-item,
 #hero .carousel-item::before {
-  position: absolute;
+  position:absolute;
   top: 0;
   right: 0;
   left: 0;
   bottom: 0;
 }
+
+
 
 #hero .carousel-item {
   background-size: cover;
