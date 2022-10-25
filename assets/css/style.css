@@ -560,13 +560,13 @@ div#preloader {
 }
 
 #img-000 {
-  background-image: url('/assets/img/produk/TasSlempangCurduraWaterproff.jpeg');
+  background-image: url(/assets/img/produk/TasSlempangCurduraWaterproff.jpeg);
 }
 #img-001 {
-  background-image: url('/assets/img/produk/TasSlempangCurduroy.jpeg');
+  background-image: url(/assets/img/produk/TasSlempangCurduroy.jpeg);
 }
 #img-002 {
-  background-image: url('/assets/img/produk/TasJeansAplikasiKainPerca.jpeg');
+  background-image: url(/assets/img/produk/TasJeansAplikasiKainPerca.jpeg);
 }
 
 #hero .carousel,
